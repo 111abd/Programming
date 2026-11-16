@@ -16,10 +16,11 @@ void solve()
             {
                 cout << "Valores aceitos\n";
             }
+            else cout << "Valores nao aceitos\n";
         }
+        else cout << "Valores nao aceitos\n";
     }
-    else
-        cout << "Valores nao aceitos\n";
+    else cout << "Valores nao aceitos\n";
 }
 int main()
 {
